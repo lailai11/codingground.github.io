@@ -1,3 +1,6 @@
+# Aloha
+This is a test
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lailai11/codingground.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
